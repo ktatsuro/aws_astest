@@ -1,9 +1,6 @@
 # aws_astest
 aws autoscaling test
 
-including my key 
-KEY="abc"
+no key
 
-KEY2="AKIAIOSFODNN7EXAMPLE"
 
-KEY2="IKAIOSFODNN7EXAMPLE"
